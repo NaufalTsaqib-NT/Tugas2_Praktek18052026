@@ -51,7 +51,5 @@ public class MainKaryawan {
         if (karyawan != null) {
             karyawan.tampilkanDetail();
         }
-
-        scanner.close();
     }
 }
